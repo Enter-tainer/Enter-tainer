@@ -928,7 +928,7 @@
               <li>Use spaces for indents</li>
             
             
-              <li>Mostly push code around 21:00</li>
+              <li>Mostly push code around 23:00</li>
             
             
               <li>Mostly active on friday</li>
@@ -1072,8 +1072,8 @@
             </div>
           
             <div class="entry">
-              <span class="value">10</span>
-              <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+              <span class="value">8</span>
+              <div class="bar" style="height: 40px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
               21
             </div>
           
@@ -1118,8 +1118,8 @@
               </div>
             
               <div class="entry">
-                <span class="value">16</span>
-                <div class="bar" style="height: 44.44444444444444px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                <span class="value">14</span>
+                <div class="bar" style="height: 38.88888888888889px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                 Wed
               </div>
             
@@ -2382,7 +2382,7 @@
       
         <footer>
           <span>These metrics do not include all private contributions, timezone Asia/Shanghai</span>
-          <span>Last updated Sat, 23 Jan 2021 03:53:04 GMT with lowlighter/metrics@3.3.0-beta</span>
+          <span>Last updated Sat, 23 Jan 2021 04:29:07 GMT with lowlighter/metrics@3.3.0-beta</span>
         </footer>
       
       <div id="metrics-end"></div>
