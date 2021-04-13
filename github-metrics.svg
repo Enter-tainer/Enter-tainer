@@ -1437,9 +1437,9 @@
                     </div>
                     <div class="entry">
                         <span class="value">
-                            4
+                            3
                         </span>
-                        <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                        <div class="bar" style="height: 18.75px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                         13
                     </div>
                     <div class="entry">
@@ -1516,21 +1516,21 @@
                             <span class="value">
                                 3
                             </span>
-                            <div class="bar" style="height: 10.714285714285714px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 11.538461538461538px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             Sun
                         </div>
                         <div class="entry">
                             <span class="value">
                                 5
                             </span>
-                            <div class="bar" style="height: 17.857142857142858px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="height: 19.230769230769234px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             Mon
                         </div>
                         <div class="entry">
                             <span class="value">
                                 3
                             </span>
-                            <div class="bar" style="height: 10.714285714285714px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 11.538461538461538px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             Tue
                         </div>
                         <div class="entry">
@@ -1550,7 +1550,7 @@
                         </div>
                         <div class="entry">
                             <span class="value">
-                                14
+                                13
                             </span>
                             <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             Sat
@@ -1564,18 +1564,18 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">
-                                TeX
+                                JavaScript
                             </span>
-                            <div class="bar" style="width: 70.056%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <div class="bar" style="width: 70.16%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             <span class="value">
                                 88%
                             </span>
                         </div>
                         <div class="entry">
                             <span class="name">
-                                JavaScript
+                                TeX
                             </span>
-                            <div class="bar" style="width: 9.943999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 9.840000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">
                                 12%
                             </span>
@@ -3150,7 +3150,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="92.4175045811929 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="92.4224554146848 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -3544,7 +3544,7 @@
                     These metrics do not include all private contributions, timezone Asia/Shanghai
                 </span>
                 <span>
-                    Last updated Tue, 13 Apr 2021 10:08:39 GMT with lowlighter/metrics@3.7.0-beta
+                    Last updated Tue, 13 Apr 2021 10:40:42 GMT with lowlighter/metrics@3.7.0-beta
                 </span>
             </footer>
             <div id="metrics-end"></div>
