@@ -2899,7 +2899,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="74.24499999999999 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="74.276 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -2927,7 +2927,7 @@
                     </span>
                   
                 </div>
-                                <div class="text">Maintaining a repository with 7395 stars</div>
+                                <div class="text">Maintaining a repository with 7396 stars</div>
                             </div>
                         </div>
                         <div class="achievement a">
@@ -3024,7 +3024,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="93.5431102092846 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="93.54676718646941 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -3407,7 +3407,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions, timezone Asia/Shanghai</span>
-                <span>Last updated Sun, 18 Apr 2021 17:22:05 GMT with lowlighter/metrics@3.8.0-beta</span>
+                <span>Last updated Sun, 18 Apr 2021 17:47:37 GMT with lowlighter/metrics@3.8.0-beta</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
