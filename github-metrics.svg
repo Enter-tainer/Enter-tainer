@@ -1441,7 +1441,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.24 s
+                0.46 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -3124,7 +3124,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="96.27209981616247 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="96.27704280037099 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -3507,7 +3507,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions, timezone Asia/Shanghai</span>
-                <span>Last updated Sat, 01 May 2021 13:51:38 GMT with lowlighter/metrics@3.8.0-beta</span>
+                <span>Last updated Sat, 01 May 2021 14:22:41 GMT with lowlighter/metrics@3.8.0-beta</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
