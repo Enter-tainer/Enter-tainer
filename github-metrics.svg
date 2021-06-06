@@ -1453,7 +1453,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.26 s
+                0.24 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1463,7 +1463,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.48 s
+                0.46 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1501,7 +1501,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.26 s
+                0.24 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1511,7 +1511,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                0.48 s
+                0.46 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -3226,7 +3226,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="103.8722393740487 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="103.88066831494163 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -3456,7 +3456,7 @@
                   Inspirationer
                   
                     <span class="gh">
-                      ranked 997k out of 233m repositories
+                      ranked 998k out of 233m repositories
                     </span>
                   
                 </div>
@@ -3609,7 +3609,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated Sun, 06 Jun 2021 08:52:13 (timezone Asia/Shanghai) with lowlighter/metrics@3.11.0-beta</span>
+                <span>Last updated Sun, 06 Jun 2021 09:49:23 (timezone Asia/Shanghai) with lowlighter/metrics@3.11.0-beta</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
