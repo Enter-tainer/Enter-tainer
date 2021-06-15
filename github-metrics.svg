@@ -3038,7 +3038,7 @@
                   Super maintainer
                   
                     <span class="gh">
-                      ranked 2.87k out of 235m repositories
+                      ranked 2.88k out of 235m repositories
                     </span>
                   
                 </div>
@@ -3081,7 +3081,7 @@
                   Super developer
                   
                     <span class="gh">
-                      ranked 219k out of 72m users
+                      ranked 220k out of 72m users
                     </span>
                   
                 </div>
@@ -3139,7 +3139,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="105.83138910078956 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="105.83476507903663 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -3522,7 +3522,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated Tue, 15 Jun 2021 14:19:02 (timezone Asia/Shanghai) with lowlighter/metrics@3.11.0-beta</span>
+                <span>Last updated Tue, 15 Jun 2021 14:41:56 (timezone Asia/Shanghai) with lowlighter/metrics@3.11.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
